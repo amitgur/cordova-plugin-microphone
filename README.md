@@ -1,7 +1,7 @@
 # Microphone
 
 ```bash
-cordova plugin install com.voicekick.cordova.microphone
+cordova plugin install com.bandpad.cordova.microphone
 ```
 
 ```JavaScript
