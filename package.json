@@ -1,5 +1,5 @@
 {
-  "name": "com.bandpad.cordova.microphone",
+  "name": "cordova-plugin-microphone",
   "version": "0.0.1",
   "cordova": {
         "id": "com.bandpad.cordova.microphone",
